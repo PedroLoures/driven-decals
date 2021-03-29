@@ -36,7 +36,7 @@ In theory it should work in the LWRP and Unity versions as far back as 2018. But
 ### Installation
 1. Within your project open the Package Manager from *Window* → *Package Manager*
 2. Click the **+** icon at the top-left of the window and select "Add package from git URL..."
-3. Paste in `https://github.com/Anatta336/driven-decals.git` and click "Add"
+3. Paste in `https://github.com/PedroLoures/driven-decals.git` and click "Add"
 4. Wait a minute. It looks a lot like nothing is happening, but Unity is busy thinking about packages.
 5. When installed you'll see "Driven Decals" listed in the window.
 
