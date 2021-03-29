@@ -44,7 +44,7 @@ In theory it should work in the LWRP and Unity versions as far back as 2018. But
 ```js
 {
   "dependencies": {
-    "com.samdriver.driven-decals": "https://github.com/Anatta336/driven-decals.git",
+    "com.samdriver.driven-decals": "https://github.com/PedroLoures/driven-decals.git",
     ...
   },
 }
